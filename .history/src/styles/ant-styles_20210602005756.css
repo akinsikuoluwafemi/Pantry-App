@@ -1,0 +1,11 @@
+
+.ant-select-selector, .ant-input, .ant-picker,.ant-input-number {
+    border-radius: 10px!important;
+    
+    
+
+}
+
+.ant-card-body {
+    padding: 0!;
+}

@@ -1,0 +1,37 @@
+button.slick-arrow {
+    background: #999;
+      /* fill: #115C8D; */
+    border-radius: 50%;
+}
+
+.slick-prev:hover,.slick-prev:focus,.slick-next:hover,.slick-next:focus {
+    background: #999;
+
+}
+
+.slick-prev:hover,.slick-prev:focus,.slick-next:hover,.slick-next:focus {
+    
+    color: transparent!important;
+    outline: none!important;
+    background: #999!important;
+
+}
+
+.slick-next{
+    position: absolute;
+    top: -2rem;
+    left: 94%;
+}
+
+.slick-prev {
+    position: absolute;
+    top: -2rem;
+    left: 85%;
+}
+
+.card-slide-wrapper {
+    height: 10rem;
+    margin-right: 1rem;
+    padding: 1rem;
+    overflow: scroll;
+}
